@@ -1,4 +1,4 @@
-package com.vsoft.broadcastexample
+package com.example.broadcastexample
 
 import org.junit.Test
 

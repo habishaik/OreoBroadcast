@@ -1,4 +1,4 @@
-package com.vsoft.broadcastexample
+package com.example.broadcastexample
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
